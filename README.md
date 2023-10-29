@@ -16,8 +16,10 @@
 		<img src="./images/philosophersm.png" alt="So solo che non so niente">
 	</a>
 	<a href="https://github.com/andreyvdl/42-NetPractice" target="_blank">
-		<img src="./images/netpracticen.png" alt="157.40.95.145">
+		<img src="./images/netpracticee.png" alt="157.40.95.145">
 	</a>
-	<img src="./images/cub3dn.png" alt="RIP AND TEAR UNTIL IS DONE">
+	<a href="https://github.com/andreyvdl/42-Cub3D" target="_blank">
+		<img src="./images/cub3dn.png" alt="RIP AND TEAR UNTIL IS DONE">
+	</a>
 	<img src="./images/minirtn.png" alt="WOW NICE GRAPHICS">
 </div>
