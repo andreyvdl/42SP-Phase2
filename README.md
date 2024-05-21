@@ -9,7 +9,7 @@
 	<a href="https://github.com/andreyvdl/42-push_swap" target="_blank"><img src="./images/push_swape.png" alt="joga pra cá, joga pra lá"></a>
 	<a href="https://github.com/andreyvdl/Minishell" target="_blank"><img src="./images/minishellm.png" alt="/dev/null$>"></a>
 	<a href="https://github.com/andreyvdl/42-philosophers" target="_blank"><img src="./images/philosophersm.png" alt="So solo che non so niente"></a>
-	<a href="https://github.com/andreyvdl/42-NetPractice" target="_blank"><img src="./images/netpracticee.png" alt="157.40.95.145"></a>
+	<a href="https://github.com/andreyvdl/42-NetPractice" target="_blank"><img src="./images/netpracticem.png" alt="157.40.95.145"></a>
 	<a href="https://github.com/andreyvdl/42-Cub3D" target="_blank"><img src="./images/cub3dm.png" alt="RIP AND TEAR UNTIL IS DONE"></a>
-	<img src="./images/minirtn.png" alt="WOW NICE GRAPHICS">
+	<img src="./images/minirtm.png" alt="WOW NICE GRAPHICS">
 </div>
